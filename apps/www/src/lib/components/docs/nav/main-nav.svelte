@@ -7,7 +7,7 @@
 </script>
 
 <div class="mr-4 hidden md:flex">
-	<a href="/" class="mr-6 flex items-center space-x-2">
+	<a href="/dashboard" class="mr-6 flex items-center space-x-2">
 		<Icons.logo class="h-6 w-6" />
 		<span class="hidden font-bold sm:inline-block">
 			{siteConfig.name}

@@ -1,10 +1,10 @@
 {
-	"name": "shadcn-svelte",
+	"name": "sveltekit-shadcn-auth-starter",
 	"version": "0.0.1",
-	"description": "monorepo for shadcn-svelte",
+	"description": "monorepo for sveltekit-shadcn-auth-starter",
 	"author": {
-		"name": "huntabyte",
-		"url": "https://twitter.com/huntabyte"
+		"name": "gribard",
+		"url": "https://github.com/gribard/"
 	},
 	"private": true,
 	"scripts": {
@@ -34,7 +34,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/huntabyte/shadcn-svelte.git"
+		"url": "https://github.com/gribard/sveltekit-shadcn-auth-starter.git"
 	},
 	"license": "MIT",
 	"type": "module",

@@ -1,21 +1,31 @@
 <p align="center">
  <img align="center" src="https://raw.githubusercontent.com/huntabyte/shadcn-svelte/main/apps/www/static/android-chrome-192x192.png" height="96" />
  <h1 align="center">
-  shadcn-svelte
+  sveltekit-shadcn-auth-starter
  </h1>
 </p>
 
-[shadcn-svelte](https://www.shadcn-svelte.com/) is an unofficial community-led [Svelte](https://svelte.dev) port of [shadcn/ui](https://ui.shadcn.com/).
+This is a SvelteKit Starter Project with basic user authentication functionality using [Lucia](https://lucia-auth.com/), Prisma, Zod, SuperForms and PostgreSQL:
 
-> **Note** <br> **We are not affiliated with shadcn, but we did get his blessing prior to creating this project** <br> This is a project born out of the need for a similar project for the Svelte ecosystem.
+1. Signin and Signup
+2. Mail verification
+3. Password reset
+4. Profile Page
+5. If the user changes their email, send an email to re-verify it.
 
-Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. **Use this to build your own component library**.
+Additional Feeatures:
 
-![hero](apps/www/static/og.png)
+1. i18n through [https://inlang.com/](https://inlang.com/)
+
+# Credits
+
+This project is based on 2 wonderful projects [shadcn-svelte](https://www.shadcn-svelte.com/) and [sveltekit-auth-starter](https://github.com/delay/sveltekit-auth-starter)
+
+![hero](apps/www/static/auth.png)
 
 ## Documentation
 
-Visit https://shadcn-svelte.com/docs to view the documentation.
+Visit https://shadcn-svelte.com/docs to view the documentation of the UI components.
 
 ## License
 
