@@ -5,7 +5,7 @@
  </h1>
 </p>
 
-This is a SvelteKit Starter Project with basic user authentication functionality using [Lucia](https://lucia-auth.com/), Prisma, Zod, SuperForms and PostgreSQL:
+This fork of [shadcn-svelte](https://www.shadcn-svelte.com/) adds basic user authentication functionality using [Lucia](https://lucia-auth.com/), Prisma, Zod, SuperForms and PostgreSQL:
 
 1. Signin and Signup
 2. Mail verification
@@ -19,14 +19,15 @@ Additional Feeatures:
 
 # Credits
 
-This project is based on 2 wonderful projects [shadcn-svelte](https://www.shadcn-svelte.com/) and [sveltekit-auth-starter](https://github.com/delay/sveltekit-auth-starter)
+This project is based on 2 wonderful projects [shadcn-svelte](https://www.shadcn-svelte.com/) and [sveltekit-auth-starter](https://github.com/delay/sveltekit-auth-starter). Thank you @huntabyte, @delay and @shadcn!
 
 ![hero](apps/www/static/auth.png)
 
 ## Documentation
 
 Visit https://shadcn-svelte.com/docs to view the documentation of the UI components.
+Visit https://github.com/delay/sveltekit-auth-starter to view more documentation on authentication components.
 
 ## License
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/gribard/ui/blob/main/LICENSE.md).
