@@ -89,8 +89,7 @@ const config = {
   kit: {
     // ... other config
     alias: {
-      $lib: "./src/lib",
-      "$lib/*": "./src/lib/*"
+      $lib: "./src/lib"
     }
   }
 };
@@ -190,8 +189,7 @@ const config = {
         sans: ["Inter", ...fontFamily.sans]
       }
     }
-  },
-  plugins: [tailwindcssAnimate]
+  }
 };
 
 export default config;
